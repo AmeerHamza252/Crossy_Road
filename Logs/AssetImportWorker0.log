@@ -1,0 +1,190 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Professional' Language: 'en' Physical Memory: 8089 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Cube_Rotate/Crossy_Road
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52162
+Successfully changed project path to: E:/Cube_Rotate/Crossy_Road
+E:/Cube_Rotate/Crossy_Road
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 66.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Cube_Rotate/Crossy_Road/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   
+    VRAM:     2048 MB
+    Driver:   20.19.15.5126
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009107 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 108.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.081 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3084ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (2759ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1267ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (100ms)
+			SetupLoadedEditorAssemblies (962ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (109ms)
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (233ms)
+				ProcessInitializeOnLoadMethodAttributes (545ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005550 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.559 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6561ms)
+		BeginReloadAssembly (291ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (6148ms)
+			LoadAssemblies (178ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (609ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (263ms)
+			SetupLoadedEditorAssemblies (3927ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (1978ms)
+				ProcessInitializeOnLoadAttributes (1863ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (26ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 2.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1543 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.4 MB.
+System memory in use after: 70.4 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1975.
+Total: 15.760700 ms (FindLiveObjects: 7.557800 ms CreateObjectMapping: 0.251900 ms MarkObjects: 7.834300 ms  DeleteObjects: 0.114300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/DestoryOutOfBound.cs
+  artifactKey: Guid(5e6d1ad73d90c394a8c9a9c441819b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DestoryOutOfBound.cs using Guid(5e6d1ad73d90c394a8c9a9c441819b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba270fc2f00ae77d8b12e19948eb3f6') in 1.640632 seconds 
+  Import took 1.665393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.805144 seconds.
+  path: Assets/Scripts/EnviromentManager.cs
+  artifactKey: Guid(c2428dcfc52caa44ea2d6f2ac01be02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnviromentManager.cs using Guid(c2428dcfc52caa44ea2d6f2ac01be02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '616603e2be94f0e3425ea0e76a4efb47') in 0.024664 seconds 
+  Import took 0.033457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.856296 seconds.
+  path: Assets/Scripts/FollowPlayer.cs
+  artifactKey: Guid(43370b55bfc1fc141bcce8a5f64f9aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FollowPlayer.cs using Guid(43370b55bfc1fc141bcce8a5f64f9aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e76697fc56f1cfd9aaa2f1d1de9bf0') in 0.032499 seconds 
+  Import took 0.037739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.607783 seconds.
+  path: Assets/Scripts/MoveLeft.cs
+  artifactKey: Guid(4cad05ca2f051b5498886774d51610c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MoveLeft.cs using Guid(4cad05ca2f051b5498886774d51610c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e4783d3482f9556e4a051a21dd2e65') in 0.027659 seconds 
+  Import took 0.036240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.150994 seconds.
+  path: Assets/Scripts/MoveRight.cs
+  artifactKey: Guid(f21413df55ce4274a984c08b8369d115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MoveRight.cs using Guid(f21413df55ce4274a984c08b8369d115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4be8072a8dfc16cfacf2efdb48da009') in 0.024077 seconds 
+  Import took 0.032733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.461718 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(bc4d878c93fb63f4f855f83a4232c467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(bc4d878c93fb63f4f855f83a4232c467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f0164047c8a269f7d85b17e26aca53') in 0.013046 seconds 
+  Import took 0.019982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.072992 seconds.
+  path: Assets/Scripts/SecondSpawnManager.cs
+  artifactKey: Guid(780439e74e8bf664584ee9a2218ef984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SecondSpawnManager.cs using Guid(780439e74e8bf664584ee9a2218ef984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf3f1f33fe60bc3bbdc3bde2a33d429') in 0.040487 seconds 
+  Import took 0.047224 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
